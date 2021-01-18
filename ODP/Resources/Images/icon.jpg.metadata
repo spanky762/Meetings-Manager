@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" maintenanceversion="1.0" replicaid="8525865E00763E66" version="11.0">
+<noteinfo noteid="172" sequence="1" unid="D9736F1BC209897185258661006470A3">
+<created><datetime>20210118T131704,35-05</datetime></created>
+<modified><datetime>20210118T131710,15-05</datetime></modified>
+<revised><datetime>20210118T131710,14-05</datetime></revised>
+<lastaccessed><datetime>20210118T131710,14-05</datetime></lastaccessed>
+<addedtofile><datetime>20210118T131710,14-05</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=admin/O=dleapdev</name><name>CN=Devin Olson/O=azlighthouse</name><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
+<wassignedby><name>CN=Devin Olson/O=azlighthouse</name></wassignedby>
+<item name="$TITLE"><text>icon.jpg</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+<item name="$ImageNames" sign="true"><text>icon.jpg</text></item>
+<item name="$FileModDT" sign="true"><datetime>20081205T070754,03-05</datetime></item>
+<item name="$Flags"><text>D34CiQ</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+
+
+<item name="$Class"><text>Enhanced Log Template</text></item></note>

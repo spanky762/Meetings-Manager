@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="filter" maintenanceversion="1.0" replicaid="8525865E00763E66" version="11.0">
+<noteinfo noteid="192" sequence="1" unid="9AAD724B609001A38525866100647A5B">
+<created><datetime>20210118T131729,23-05</datetime></created>
+<modified><datetime>20210118T131731,01-05</datetime></modified>
+<revised><datetime>20210118T131731,00-05</datetime></revised>
+<lastaccessed><datetime>20210118T131731,00-05</datetime></lastaccessed>
+<addedtofile><datetime>20210118T131731,00-05</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
+<wassignedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></wassignedby>
+<item name="$TITLE" sign="true"><text>enhLogClass</text></item>
+<item name="$Flags"><text>s34Q</text></item>
+<item name="$PublicAccess" sign="true"><text>1</text></item>
+<item name="$POID"><datetime dst="true">20190626T055254,45-04</datetime></item>
+
+
+
+
+
+
+<item name="$Comment"><text>Carrier for the EnhancedLog class.</text></item>
+<item name="$Class"><text>Enhanced Log Template</text></item></note>

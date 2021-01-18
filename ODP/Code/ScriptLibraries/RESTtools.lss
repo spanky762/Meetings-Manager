@@ -1,0 +1,14 @@
+'++LotusScript Development Environment:2:5:(Options):0:74
+%REM
+	Library RESTtools
+	Created Jan 18, 2021 by Devin Olson/USA/PNPHCL
+	Description
+%END REM
+Option Public
+Option Explicit 
+
+
+
+'++LotusScript Development Environment:2:5:(Forward):0:1
+
+'++LotusScript Development Environment:2:5:(Declarations):0:2
