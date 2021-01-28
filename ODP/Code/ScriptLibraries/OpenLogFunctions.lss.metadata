@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="filter" maintenanceversion="1.0" replicaid="8525865E00763E66" version="11.0">
+<noteinfo noteid="212" sequence="1" unid="34C7705F5563A5A98525866A0051DDE8">
+<created><datetime>20210127T095412,24-05</datetime></created>
+<modified><datetime>20210127T095412,30-05</datetime></modified>
+<revised><datetime>20210127T095412,29-05</datetime></revised>
+<lastaccessed><datetime>20210127T095412,29-05</datetime></lastaccessed>
+<addedtofile><datetime>20210127T095412,29-05</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Julian Robichaux/O=nsftools</name><name>CN=intecagentsigner/O=Intec</name><name>CN=Paul Withers/O=Intec</name><name>CN=Gary Martyn/O=Intec</name><name>CN=Paul Withers/O=Intec</name><name>CN=Paul S Withers/O=paulswithers</name><name>CN=Paul Withers/OU=UK/O=PNPHCL</name><name>CN=Rocky Oliver/OU=USA/O=PNPHCL</name><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
+<wassignedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></wassignedby>
+<item name="$TITLE" sign="true"><text>OpenLogFunctions</text></item>
+<item name="$Flags"><text>s34Q</text></item>
+<item name="$PublicAccess"><text>1</text></item>
+<item name="$POID"><datetime dst="true">20071010T140419,07+01</datetime></item>
+<item name="$Comment"><text>Slight change to basic OpenLog in Initialize - gets OpenLog from keyword doc</text></item>
+
+</note>
