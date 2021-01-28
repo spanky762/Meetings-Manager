@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note class='form' xmlns='http://www.lotus.com/dxl' version='11.0' maintenanceversion='1.0'
  replicaid='8525865E00763E66'>
-<noteinfo noteid='1a2' unid='496D101C8A23A8C78525866100649144' sequence='1'>
+<noteinfo noteid='1a2' unid='496D101C8A23A8C78525866100649144' sequence='9'>
 <created><datetime>20210118T131827,88-05</datetime></created>
-<modified><datetime>20210118T131832,03-05</datetime></modified>
-<revised><datetime>20210118T131832,02-05</datetime></revised>
-<lastaccessed><datetime>20210118T131832,02-05</datetime></lastaccessed>
+<modified><datetime>20210128T103151,00-05</datetime></modified>
+<revised><datetime>20210128T103150,99-05</datetime></revised>
+<lastaccessed><datetime>20210128T103150,99-05</datetime></lastaccessed>
 <addedtofile><datetime>20210118T131832,02-05</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
+<updatedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name><name>CN=Devin Olson/O=azlighthouse</name><name
+>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
 <wassignedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></wassignedby>
 <item name='$Comment' sign='true'><text/></item>
 <item name='$HTMLCode' sign='true'>
@@ -20,7 +21,6 @@ X/8QAAIADwAHAAAAAAAAAA==
 hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
 </rawitemdata></item>
 <item name='$WindowTitle' sign='true'><formula>"Log " + @Text(A$STARTTIME; "D0T0")</formula></item>
-<item name='$Flags'><text>CDw</text></item>
 <item name='$DesignerVersion' sign='true'><text>8.5.3</text></item>
 <item name='$Fonts'>
 <rawitemdata type='1'>
@@ -743,5 +743,6 @@ BH1QAV4gAiMxGiAAWzACgaYaIQAPyv8aIgAdGicACwAACAAJOjAAGikAXhgDKVADIywkBSOmGmUA
 SxgDLFQFffgCiwMjMRpnABpoAF34AkoYA6YaaQAcGmoAGmsACgAAGmwAKcQEfVABXggDIzEabQBe
 GAOBphpuAA/K/xpvAB0CAAAAEQAYAAAAAAD//wEAAwAGAAAACgCQAQ8ArAIjAAoAAADr
 </rawitemdata></item>
-<item name='$Class'><text>Enhanced Log Template</text></item></note>
+<item name='$Class'><text>Enhanced Log Template</text></item>
+<item name='$Flags'><text>CDw</text></item></note>
 

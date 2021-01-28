@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note class='form' xmlns='http://www.lotus.com/dxl' version='11.0' maintenanceversion='1.0'
  replicaid='8525865E00763E66'>
-<noteinfo noteid='19e' unid='ED1AA6DE1C2E16748525866100649143' sequence='1'>
+<noteinfo noteid='19e' unid='ED1AA6DE1C2E16748525866100649143' sequence='9'>
 <created><datetime>20210118T131827,87-05</datetime></created>
-<modified><datetime>20210118T131832,02-05</datetime></modified>
-<revised><datetime>20210118T131832,01-05</datetime></revised>
-<lastaccessed><datetime>20210118T131832,01-05</datetime></lastaccessed>
+<modified><datetime>20210128T103150,96-05</datetime></modified>
+<revised><datetime>20210128T103150,95-05</datetime></revised>
+<lastaccessed><datetime>20210128T103150,95-05</datetime></lastaccessed>
 <addedtofile><datetime>20210118T131832,01-05</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
+<updatedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name><name>CN=Devin Olson/O=azlighthouse</name><name
+>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
 <wassignedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></wassignedby>
 <item name='$Comment' sign='true'><text/></item>
 <item name='$HTMLCode' sign='true'>
@@ -22,7 +23,6 @@ hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
 <item name='$SubForms' sign='true'><text>Config\Enhanced Log Information | cfg-EnhLogInfo</text></item>
 <item name='$SubForm_RepIDs' sign='true'><text>0000000000000000</text></item>
 <item name='$WindowTitle' sign='true'><formula>"Log Configuration"</formula></item>
-<item name='$Flags'><text>CD</text></item>
 <item name='$DesignerVersion' sign='true'><text>8.5.3</text></item>
 <item name='$Fonts'>
 <rawitemdata type='1'>
@@ -206,5 +206,6 @@ AAAAAAAEAgAAAAAAAAAAAAAAAAAABAA7AAAAAADSyAAdAAAaCwBbXAFJsADKzACmGgwAR1wBy8sA
 AABsARoNAB0aEQApQAJ9BAKCgoKCgiMaEgAdAgAAABEAGAAAAAAA//8BAAMAAwAAAAYADAEIAHwB
 DwAKAAAAXw==
 </rawitemdata></item>
-<item name='$Class'><text>Enhanced Log Template</text></item></note>
+<item name='$Class'><text>Enhanced Log Template</text></item>
+<item name='$Flags'><text>CD</text></item></note>
 

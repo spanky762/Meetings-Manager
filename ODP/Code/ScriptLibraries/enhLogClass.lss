@@ -2645,6 +2645,7 @@ ErrorTrap:
 		Resume ExitPoint		
 	End Sub 
 End Class 	
+
 '++LotusScript Development Environment:2:2:Initialize:2:10
 
 Sub Initialize
@@ -3246,10 +3247,10 @@ ErrorTrap:
 	Resume ExitPoint
 End Function 
 
+'++LotusScript Development Environment:2:1:enhLogExceptionWithLink:19:8
 
 
 
-'++LotusScript Development Environment:2:1:enhLogExceptionWithLink:16:8
 
 %REM 
 	Function enhLogExceptionWithLink

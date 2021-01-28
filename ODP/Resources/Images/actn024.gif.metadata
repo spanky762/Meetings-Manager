@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" maintenanceversion="1.0" replicaid="8525865E00763E66" version="11.0">
-<noteinfo noteid="16a" sequence="1" unid="62225BC067500E5C85258661006470A1">
+<noteinfo noteid="16a" sequence="5" unid="62225BC067500E5C85258661006470A1">
 <created><datetime>20210118T131704,33-05</datetime></created>
-<modified><datetime>20210118T131710,13-05</datetime></modified>
-<revised><datetime>20210118T131710,12-05</datetime></revised>
-<lastaccessed><datetime>20210118T131710,12-05</datetime></lastaccessed>
+<modified><datetime>20210127T182846,78-05</datetime></modified>
+<revised><datetime>20210119T143806,46-05</datetime></revised>
+<lastaccessed><datetime>20210127T182846,77-05</datetime></lastaccessed>
 <addedtofile><datetime>20210118T131710,12-05</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
-<wassignedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></wassignedby>
+<updatedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name><name>CN=Devin Olson/O=azlighthouse</name></updatedby>
+<wassignedby><name>CN=Devin Olson/O=azlighthouse</name></wassignedby>
 <item name="$TITLE"><text>actn024.gif</text></item>
 <item name="$FlagsExt" sign="true"><text>D</text></item>
 <item name="$ImagesWide" sign="true"><number>1</number></item>
@@ -16,8 +16,8 @@
 <item name="$ImageNames" sign="true"><text>actn024.gif</text></item>
 <item name="$PublicAccess" sign="true"><text>1</text></item>
 <item name="$EditFilePath" sign="true"><text>C:\Users\dolson\AppData\Local\Temp\notes97E53A\~actn024.gif</text></item>
-<item name="$Flags"><text>34CiQ</text></item>
-<item name="$DesignerVersion"><text>8.5.3</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
 
 
-<item name="$Class"><text>Enhanced Log Template</text></item></note>
+<item name="$Class"><text>Enhanced Log Template</text></item>
+<item name="$Flags"><text>34CiQ</text></item></note>
