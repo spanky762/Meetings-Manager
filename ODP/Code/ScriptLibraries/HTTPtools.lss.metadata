@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="filter" maintenanceversion="1.0" replicaid="8525865E00763E66" version="11.0">
-<noteinfo noteid="1a6" sequence="3" unid="F00146C0D6F2B8E4852586610065E595">
+<noteinfo noteid="1a6" sequence="22" unid="F00146C0D6F2B8E4852586610065E595">
 <created><datetime>20210118T133259,09-05</datetime></created>
-<modified><datetime>20210118T140334,34-05</datetime></modified>
-<revised><datetime>20210118T140334,33-05</datetime></revised>
-<lastaccessed><datetime>20210118T140334,33-05</datetime></lastaccessed>
+<modified><datetime>20210128T111547,73-05</datetime></modified>
+<revised><datetime>20210128T111547,72-05</datetime></revised>
+<lastaccessed><datetime>20210128T111547,72-05</datetime></lastaccessed>
 <addedtofile><datetime>20210118T133259,16-05</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></updatedby>
 <wassignedby><name>CN=Devin Olson/OU=USA/O=PNPHCL</name></wassignedby>
-<item name="$TITLE" sign="true"><text>RESTtools</text></item>
 <item name="$Flags"><text>s34Q</text></item>
 <item name="$PublicAccess" sign="true"><text>1</text></item>
-<item name="$DesignerVersion"><text>8.5.3</text></item>
+<item name="$TITLE" sign="true"><text>HTTPtools</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
 
 
-<item name="$Comment"><text>REST API Tools (uses LS2J)</text></item></note>
+<item name="$Comment"><text>HTTP tools for REST API interactions</text></item></note>
